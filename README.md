@@ -2,7 +2,7 @@
 
 ## Overview
 
-Thank you for Checking out my work! Analyzing the life expectancy and health expenditure of various health care systems is important to understanding policy decisions to promote public health equity and outcomes. This application provides exploratory analysis and visualization of the relation between life expectancy at birth and health expenditure. Additionally, regression is done to forecast this relation. Finally, there is comparison between countries with universal healthcare coverage (universal government-funded health systems, often referred to as single-payer health care) and those without.
+Thank you for checking out my work! Analyzing the life expectancy and health expenditure of various health care systems is important to understanding policy decisions to promote public health equity and outcomes. This application provides exploratory analysis and visualization of the relation between life expectancy at birth and health expenditure. Additionally, regression is done to forecast this relation. Finally, there is comparison between countries with universal healthcare coverage (universal government-funded health systems, often referred to as single-payer health care) and those without.
 
 ## Usage
 
