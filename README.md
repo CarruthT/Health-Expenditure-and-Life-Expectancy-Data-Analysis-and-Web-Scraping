@@ -6,7 +6,7 @@ Thank you for Checking out my work! Analyzing the life expectancy and health exp
 
 ## Usage
 
-To utlize this application you must download the excel file titled "CountryLE_EXP_UHC.csv" and place it in a directory with the dowloaded application "CapstoneApp.py". Then through terminal activate a python version with the required packages (described below) and navigate to the relevant directory with the two files. From here run the command "streamlit run CapstoneApp.py" and the application should appear in a browser window.
+To utlize this application you must download the excel file titled "CountryLE_EXP_UHC.csv" and place it in a directory with the dowloaded application "LEHE.py". Then through terminal activate a python version with the required packages (described below) and navigate to the relevant directory with the two files. From here run the command "streamlit run CapstoneApp.py" and the application should appear in a browser window.
 
 ## Features
 
@@ -21,7 +21,7 @@ The webscraping notebook makes use of the following packages: bs4, requests, pan
 There is a relevant requirements.txt file also included to review the exact packages in use on my machine the time of upload.
 ## Data Sources
 
-Data was webscraped using beautifulsoup4 from wikipedia pages as seen in the Final Project.ipynb. 
+Data was webscraped using beautifulsoup4 from wikipedia pages as seen in the datacollection.ipynb. 
 Source links are provided below:
 
 Data on Life expectancy can be found here from the World Health Organization:https://apps.who.int/gho/data/node.main.688
