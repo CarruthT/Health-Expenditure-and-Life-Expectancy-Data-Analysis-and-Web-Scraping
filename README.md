@@ -6,7 +6,7 @@ Thank you for checking out my work! Analyzing the life expectancy and health exp
 
 ## Usage
 
-To utlize this application you must download the excel file titled "CountryLE_EXP_UHC.csv" and place it in a directory with the dowloaded application "LEHE.py". Then through terminal activate a python version with the required packages (described below) and navigate to the relevant directory with the two files. From here run the command "streamlit run CapstoneApp.py" and the application should appear in a browser window.
+To utlize this application you must download the excel file titled "CountryLE_EXP_UHC.csv" and place it in a directory with the dowloaded application "LEHE.py". Then through terminal activate a python version with the required packages (described below) and navigate to the relevant directory with the two files. From here run the command "streamlit run LEHE.py" and the application should appear in a browser window.
 
 ## Features
 
