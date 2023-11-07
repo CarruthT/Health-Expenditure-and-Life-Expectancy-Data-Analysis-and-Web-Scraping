@@ -4,6 +4,9 @@
 
 Thank you for checking out my work! Analyzing the life expectancy and health expenditure of various health care systems is important to understanding policy decisions to promote public health equity and outcomes. This application provides exploratory analysis and visualization of the relation between life expectancy at birth and health expenditure. Additionally, regression is done to forecast this relation. Finally, there is comparison between countries with universal healthcare coverage (universal government-funded health systems, often referred to as single-payer health care) and those without.
 
+![Recording 2023-11-07 at 09 47 51](https://github.com/CarruthT/Health-Expenditure-and-Life-Expectancy-Data-Analysis-and-Web-Scraping/assets/97051391/c95e5e2f-49ed-410d-a645-98f004688cd7)
+
+
 ## Usage
 
 To utlize this application you must download the excel file titled "CountryLE_EXP_UHC.csv" and place it in a directory with the dowloaded application "LEHE.py". Then through terminal activate a python version with the required packages (described below) and navigate to the relevant directory with the two files. From here run the command "streamlit run LEHE.py" and the application should appear in a browser window.
